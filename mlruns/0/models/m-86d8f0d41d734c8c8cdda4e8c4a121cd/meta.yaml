@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/PC/TP_MNIST/mlruns/0/models/m-86d8f0d41d734c8c8cdda4e8c4a121cd/artifacts
+creation_timestamp: 1762209240780
+experiment_id: '0'
+last_updated_timestamp: 1762209256828
+model_id: m-86d8f0d41d734c8c8cdda4e8c4a121cd
+model_type: null
+name: mnist-model-Avec_BatchNorm
+source_run_id: 8fd2e02db96a4b84aea100ba5197ae52
+status: 2
+status_message: null

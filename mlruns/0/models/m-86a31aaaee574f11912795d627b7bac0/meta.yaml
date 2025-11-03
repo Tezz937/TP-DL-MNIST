@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/PC/TP_MNIST/mlruns/0/models/m-86a31aaaee574f11912795d627b7bac0/artifacts
+creation_timestamp: 1762209129759
+experiment_id: '0'
+last_updated_timestamp: 1762209148832
+model_id: m-86a31aaaee574f11912795d627b7bac0
+model_type: null
+name: mnist-model-Sans_BatchNorm
+source_run_id: ab34898f6e7a4037a9a0e82139f79ee8
+status: 2
+status_message: null

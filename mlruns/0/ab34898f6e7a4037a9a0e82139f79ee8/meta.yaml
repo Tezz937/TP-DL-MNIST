@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/PC/TP_MNIST/mlruns/0/ab34898f6e7a4037a9a0e82139f79ee8/artifacts
+end_time: 1762209148881
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab34898f6e7a4037a9a0e82139f79ee8
+run_name: BatchNorm_Comparison_Sans_BatchNorm
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762209059309
+status: 3
+tags: []
+user_id: PC
